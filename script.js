@@ -5,7 +5,7 @@ var count =0
 button1.addEventListener('click', function(){
     count+=1
     if(count % 2 === 0){
-        heading1.innerHTML = 'mon ga'
+        heading1.innerHTML = 'mon ga ga'
     }else{
         heading1.innerHTML = 'mon ko ga'
     }
